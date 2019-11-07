@@ -25,6 +25,7 @@ $ cd sample_knock_api
 ```
 
 ## 事前準備
+
 ### model
 #### Post model を用意します
 
